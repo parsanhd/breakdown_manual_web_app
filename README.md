@@ -17,4 +17,3 @@ A full-stack web application that allows users to answer questionnaire-style for
 - **Storage:** Amazon S3
 - **API Management:** AWS API Gateway
 
-## 📂 Project Structure
